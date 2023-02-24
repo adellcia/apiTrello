@@ -1,0 +1,743 @@
+[
+    {
+        "200": {
+            "id": "63f610189cb54b2bf40d4d7f",
+            "name": "1 board",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/n0hlDaTM/1-board",
+            "dateLastActivity": null,
+            "dateLastView": "2023-02-22T13:11:12.460Z",
+            "prefs": {
+                "permissionLevel": "private",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f610189cb54b2bf40d4d80"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f610189cb54b2bf40d4d81"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f610189cb54b2bf40d4d82"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f610189cb54b2bf40d4d83"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f610189cb54b2bf40d4d84"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f610189cb54b2bf40d4d85"
+                    }
+                ],
+                "background": "blue",
+                "backgroundColor": "#0079BF",
+                "backgroundImage": null,
+                "backgroundImageScaled": null,
+                "backgroundTile": false,
+                "backgroundBrightness": "dark",
+                "backgroundBottomColor": "#0079BF",
+                "backgroundTopColor": "#0079BF",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f610189cb54b2bf40d4d8a"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "200": {
+            "id": "63f613a0c5a8a8f6b34476ef",
+            "name": "1 board",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/fFRFBKFD/1-board",
+            "dateLastActivity": null,
+            "dateLastView": null,
+            "prefs": {
+                "permissionLevel": "private",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f613a0c5a8a8f6b34476f0"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f613a0c5a8a8f6b34476f1"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f613a0c5a8a8f6b34476f2"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f613a0c5a8a8f6b34476f3"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f613a0c5a8a8f6b34476f4"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f613a0c5a8a8f6b34476f5"
+                    }
+                ],
+                "background": "blue",
+                "backgroundColor": "#0079BF",
+                "backgroundImage": null,
+                "backgroundImageScaled": null,
+                "backgroundTile": false,
+                "backgroundBrightness": "dark",
+                "backgroundBottomColor": "#0079BF",
+                "backgroundTopColor": "#0079BF",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f613a0c5a8a8f6b34476fa"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "200": {
+            "id": "63f613ddbe5a9ad1bcbf249e",
+            "name": "2 board",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/oBUnOFkC/2-board",
+            "dateLastActivity": null,
+            "dateLastView": "2023-02-22T13:08:46.455Z",
+            "prefs": {
+                "permissionLevel": "org",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f613ddbe5a9ad1bcbf249f"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f613ddbe5a9ad1bcbf24a0"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f613ddbe5a9ad1bcbf24a1"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f613ddbe5a9ad1bcbf24a2"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f613ddbe5a9ad1bcbf24a3"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f613ddbe5a9ad1bcbf24a4"
+                    }
+                ],
+                "background": "orange",
+                "backgroundColor": "#D29034",
+                "backgroundImage": null,
+                "backgroundImageScaled": null,
+                "backgroundTile": false,
+                "backgroundBrightness": "dark",
+                "backgroundBottomColor": "#D29034",
+                "backgroundTopColor": "#D29034",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f613ddbe5a9ad1bcbf24a6"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "200": {
+            "id": "63f61451752061a7c3ce8936",
+            "name": "3board",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/p01i7XvG/3board",
+            "dateLastActivity": null,
+            "dateLastView": "2023-02-22T13:10:43.079Z",
+            "prefs": {
+                "permissionLevel": "org",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f61451752061a7c3ce8937"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f61451752061a7c3ce8938"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f61451752061a7c3ce8939"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f61451752061a7c3ce893a"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f61451752061a7c3ce893b"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f61451752061a7c3ce893c"
+                    }
+                ],
+                "background": "63f608f3abb2fe9fb15089d4",
+                "backgroundColor": null,
+                "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/54dd77e8bacf0d09697ef8d7ee37ed1f/photo-1676647253166-1f1704cbc8ca",
+                "backgroundImageScaled": [
+                    {
+                        "width": 140,
+                        "height": 93,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x93/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 256,
+                        "height": 171,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x171/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 480,
+                        "height": 320,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x320/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 960,
+                        "height": 640,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x640/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 1024,
+                        "height": 683,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x683/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 854,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x854/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 1920,
+                        "height": 1280,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1280/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 2048,
+                        "height": 1366,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2048x1366/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 2400,
+                        "height": 1600,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2400x1600/4d1a1d81085805ca0c924c42d2c0f678/photo-1676647253166-1f1704cbc8ca.jpg"
+                    },
+                    {
+                        "width": 2560,
+                        "height": 1707,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/54dd77e8bacf0d09697ef8d7ee37ed1f/photo-1676647253166-1f1704cbc8ca"
+                    }
+                ],
+                "backgroundTile": false,
+                "backgroundBrightness": "light",
+                "backgroundBottomColor": "#9d9792",
+                "backgroundTopColor": "#d7dcde",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f61451752061a7c3ce8941"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "200": {
+            "id": "63f71334c2ef51f45d270e56",
+            "name": "kjhgf",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/jEfSawut/kjhgf",
+            "dateLastActivity": null,
+            "dateLastView": "2023-02-23T07:18:14.155Z",
+            "prefs": {
+                "permissionLevel": "org",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f71334c2ef51f45d270e57"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f71334c2ef51f45d270e58"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f71334c2ef51f45d270e59"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f71334c2ef51f45d270e5a"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f71334c2ef51f45d270e5b"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f71334c2ef51f45d270e5c"
+                    }
+                ],
+                "background": "63f70e2365c23312e72f042f",
+                "backgroundColor": null,
+                "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/a999c02a38f7cebd15167d53a722098a/photo-1677029907981-e9a44fb7409a",
+                "backgroundImageScaled": [
+                    {
+                        "width": 80,
+                        "height": 100,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/80x100/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 154,
+                        "height": 192,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/154x192/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 384,
+                        "height": 480,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/384x480/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 768,
+                        "height": 960,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/768x960/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 819,
+                        "height": 1024,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/819x1024/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 1024,
+                        "height": 1280,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x1280/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 1280,
+                        "height": 1600,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1600/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 1536,
+                        "height": 1920,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1536x1920/bb82ce4e3cc9459f90931e60dd8ed828/photo-1677029907981-e9a44fb7409a.jpg"
+                    },
+                    {
+                        "width": 1638,
+                        "height": 2048,
+                        "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/original/a999c02a38f7cebd15167d53a722098a/photo-1677029907981-e9a44fb7409a"
+                    }
+                ],
+                "backgroundTile": false,
+                "backgroundBrightness": "dark",
+                "backgroundBottomColor": "#0a0833",
+                "backgroundTopColor": "#0c042b",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f71334c2ef51f45d270e5e"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "200": {
+            "id": "63f6149cb78679524c4f9de4",
+            "name": "tablica",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/0caFfiRV/tablica",
+            "dateLastActivity": null,
+            "dateLastView": "2023-02-23T06:50:38.788Z",
+            "prefs": {
+                "permissionLevel": "private",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f6149cb78679524c4f9de5"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f6149cb78679524c4f9de6"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f6149cb78679524c4f9de7"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f6149cb78679524c4f9de8"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f6149cb78679524c4f9de9"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f6149cb78679524c4f9dea"
+                    }
+                ],
+                "background": "blue",
+                "backgroundColor": "#0079BF",
+                "backgroundImage": null,
+                "backgroundImageScaled": null,
+                "backgroundTile": false,
+                "backgroundBrightness": "dark",
+                "backgroundBottomColor": "#0079BF",
+                "backgroundTopColor": "#0079BF",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f6149cb78679524c4f9def"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "200": {
+            "id": "63f614a55c688720061046e8",
+            "name": "tablica",
+            "idOrganization": "63870cc5ba1d7f0050fa82dd",
+            "url": "https://trello.com/b/d8c34zdP/tablica",
+            "dateLastActivity": null,
+            "dateLastView": "2023-02-22T13:12:17.980Z",
+            "prefs": {
+                "permissionLevel": "private",
+                "hideVotes": false,
+                "voting": "disabled",
+                "comments": "members",
+                "invitations": "members",
+                "selfJoin": true,
+                "cardCovers": true,
+                "isTemplate": false,
+                "cardAging": "regular",
+                "calendarFeedEnabled": false,
+                "hiddenPluginBoardButtons": [],
+                "switcherViews": [
+                    {
+                        "viewType": "Board",
+                        "enabled": true,
+                        "_id": "63f614a55c688720061046e9"
+                    },
+                    {
+                        "viewType": "Table",
+                        "enabled": true,
+                        "_id": "63f614a55c688720061046ea"
+                    },
+                    {
+                        "viewType": "Calendar",
+                        "enabled": false,
+                        "_id": "63f614a55c688720061046eb"
+                    },
+                    {
+                        "viewType": "Dashboard",
+                        "enabled": false,
+                        "_id": "63f614a55c688720061046ec"
+                    },
+                    {
+                        "viewType": "Timeline",
+                        "enabled": false,
+                        "_id": "63f614a55c688720061046ed"
+                    },
+                    {
+                        "viewType": "Map",
+                        "enabled": false,
+                        "_id": "63f614a55c688720061046ee"
+                    }
+                ],
+                "background": "blue",
+                "backgroundColor": "#0079BF",
+                "backgroundImage": null,
+                "backgroundImageScaled": null,
+                "backgroundTile": false,
+                "backgroundBrightness": "dark",
+                "backgroundBottomColor": "#0079BF",
+                "backgroundTopColor": "#0079BF",
+                "canBePublic": true,
+                "canBeEnterprise": true,
+                "canBeOrg": true,
+                "canBePrivate": true,
+                "canInvite": true
+            },
+            "starred": false,
+            "closed": false,
+            "memberships": [
+                {
+                    "idMember": "63870c332226030205097502",
+                    "memberType": "admin",
+                    "unconfirmed": false,
+                    "deactivated": false,
+                    "id": "63f614a55c688720061046f3"
+                }
+            ],
+            "organization": {
+                "id": "63870cc5ba1d7f0050fa82dd",
+                "products": [],
+                "memberships": [
+                    {
+                        "idMember": "63870c332226030205097502",
+                        "memberType": "admin",
+                        "unconfirmed": false,
+                        "deactivated": false,
+                        "id": "63870cc5ba1d7f0050fa82df"
+                    }
+                ]
+            }
+        }
+    }
+]
